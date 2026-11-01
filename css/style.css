@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+} 
+ h1{
+    color: coral;
+    
+}
+
+
+
+.photosofsixseasons{
+    color: darkgoldenrod;
+}
+.one{ 
+    height: 200px;
+    width: 150px;
+    background: tan;
+
+}
+.two{
+    height: 200px;
+    width: 150px;
+    background-color: darkgreen;
+}
+.three{
+    height: 200px;
+    width: 150px;
+    background: crimson;
+}
+.four{
+    height: 200px;
+    width: 150px;
+    background: tomato;
+}
+.five{
+    height: 200px;
+    width: 150px;
+    background-color: brown;
+}
+.six{
+    height: 200px;
+    width: 150px;
+    background-color: darkkhaki;
+}
+
+.prnts{
+    display: flex;
+    justify-content: space-between;
+}
+
+
